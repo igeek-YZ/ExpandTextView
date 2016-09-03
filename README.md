@@ -2,12 +2,12 @@
 
 #### 效果图 （带提示图标）
        
-<img src="https://github.com/igeek-YZ/ExpandTextView/blob/master/pics/expandtextview.gif" width = "491" height = "635" alt="960" align=center />
+<img src="https://github.com/igeek-YZ/ExpandTextView/blob/master/pic/expandtextview.gif" width = "491" height = "635" alt="960" align=center />
 
 
 #### 效果图 （不带提示图标）
 
-<img src="https://github.com/igeek-YZ/ExpandTextView/blob/master/pics/expandtextview2.gif" width = "491" height = "635" alt="960" align=center />
+<img src="https://github.com/igeek-YZ/ExpandTextView/blob/master/pic/expandtextview2.gif" width = "491" height = "635" alt="960" align=center />
 
 #### activity 文件
 
