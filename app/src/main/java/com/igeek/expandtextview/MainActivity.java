@@ -16,12 +16,12 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         textView= (ExpandTextView) findViewById(R.id.cusTextView);
-//        textView.updateText(getResources().getString(R.string.title_activity_main2));
+        textView.updateText(getResources().getString(R.string.test_expandtext));
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        textView.updateText(getResources().getString(R.string.test_expandtext));
+//        textView.updateText(getResources().getString(R.string.test_expandtext));
     }
 }

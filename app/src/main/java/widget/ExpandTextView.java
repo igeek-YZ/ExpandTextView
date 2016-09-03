@@ -32,11 +32,11 @@ public class ExpandTextView extends View implements View.OnClickListener {
 
     //行文本记录集
     private List<LineText> lineTexts = new ArrayList<LineText>();
-    //最大显示文本行
+    //最大显示文本行数
     private int maxLines;
     //目标文本行
     private int targetLine;
-    //收缩时候的提示图标
+    //收缩收起时候的提示图标
     private Drawable expandDrawable;
     //展开时候的提示图标
     private Drawable shrinkDrawable;
@@ -55,7 +55,7 @@ public class ExpandTextView extends View implements View.OnClickListener {
     //收缩行结尾提示语文本绘制水平起点
     private float ellipsizStartX;
 
-    //文本大小
+    //文本字体大小
     private int textSize;
     //文本颜色
     private int textColor;
