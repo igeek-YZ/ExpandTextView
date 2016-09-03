@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExpandTextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_expandtext">作为Android开发人员,免不了会研读下Android源码,之前在Windows平台一直使用SourceInsight这款优秀的代码分析阅读工具.转移到Mac平台后,一直没有找到合适的代替品,也用过 Eclipse , AndroidStudio 来导入源码,但是用起来还是别扭(主要是卡).在此推荐一款Mac下的SourceInsight替代品,代码分析阅读工具Understand.</string>
+    <string name="title_activity_main2">Main2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2ActivityMain2Activity</string>
+</resources>

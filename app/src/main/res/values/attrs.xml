@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandTextView">
+        <attr name="textColor" format="color|reference"/>
+        <attr name="maxLines" format="integer|reference"/>
+        <attr name="textSize" format="dimension|reference"/>
+        <attr name="animDuration" format="integer|reference"/>
+        <attr name="drawableWidth" format="dimension|reference"/>
+        <attr name="drawableHeight" format="dimension|reference"/>
+        <attr name="expandDrawable" format="color|reference"/>
+        <attr name="shrinkDrawable" format="color|reference"/>
+    </declare-styleable>
+
+</resources>
